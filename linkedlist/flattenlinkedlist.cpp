@@ -1,7 +1,6 @@
 class Solution{
     public:
 
-
  Node* merge(Node* l1, Node* l2)
     {
         Node* d1=new Node(-1);
